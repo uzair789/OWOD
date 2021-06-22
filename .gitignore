@@ -1,0 +1,4 @@
+datasets/
+output/
+detectron2/__pycache__/
+detectron2/utils/__pycache__/
